@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Income level vs Health Status](#Income level vs Health Status)
+- [Capstone_project](#Income level vs Health Status)
 - [Motivation](#Motivation)
 - [Data_questions](#Data questions)
 - [Technologies-Used](#Technologies-Used)
@@ -49,10 +49,10 @@ the data so that it is easier to deduce actionable insight and present the same 
 
 # The process 
 
-> Getting required data 
-> Cleaning and organizing data using Python
-> Moving data to Power BI and create visualization
-> Push to the git hub version control 
+- Getting required data 
+- Cleaning and organizing data using Python
+- Moving data to Power BI and create visualization
+- Push to the git hub version control 
 
 
 # Challenges
@@ -64,9 +64,11 @@ these obstacles required intense research, experimentation, and continuous impro
 
 # Source
 
-[Health_assesment_data](https://catalog.data.gov/dataset/places-local-data-for-better-health-county-data-2020-release-94305)
-[Unemployment_data](https://apps.bea.gov/itable/index.html?appid=70&stepnum=40&Major_Area=3&State=00000&Area=XX&TableId=600&Statistic=10&Year=-1&YearBegin=-1&Year_End=-1&Unit_Of_Measure=Levels&Rank=0&Drill=1&nRange=5)
-[Median_income_data](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data)
+-Health Data **[Health_assesment_data](https://catalog.data.gov/dataset/places-local-data-for-better-health-county-data-2020-release-94305)**
+
+-Unemployment Data **[Unemployment_data](https://apps.bea.gov/itable/index.html?appid=70&stepnum=40&Major_Area=3&State=00000&Area=XX&TableId=600&Statistic=10&Year=-1&YearBegin=-1&Year_End=-1&Unit_Of_Measure=Levels&Rank=0&Drill=1&nRange=5)**
+
+-Income Dara **[Median_income_data](https://www.ers.usda.gov/data-products/county-level-data-sets/county-level-data-sets-download-data)**
 
 
 
