@@ -1,8 +1,10 @@
+
 ## Table of Contents
 
-- [Capstone_project](#Income level vs Health Status)
+
+- [Project_Title](#Income-level-vs-Health-Status)
 - [Motivation](#Motivation)
-- [Data_questions](#Data questions)
+- [Data_questions](#Data-questions)
 - [Technologies-Used](#Technologies-Used)
 - [The_Process](#The Process)
 - [Challenges](#Challenges)
@@ -26,10 +28,10 @@ organizations, and communities can develop targeted interventions to improve pub
 
 # Data questions
 
-•	Are there significant regional variations in the impact of median income and unemployment rates on health outcomes?
-•	Is there a specific income threshold beyond which improvements in health outcomes?
-•	How does unemployment influence specific health outcomes?
-•	How do public health policies or welfare programs mitigate the adverse effects of low income and high unemployment on health outcomes?
+- Are there significant regional variations in the impact of median income and unemployment rates on health outcomes?
+- Is there a specific income threshold beyond which improvements in health outcomes?
+- How does unemployment influence specific health outcomes?
+- How do public health policies or welfare programs mitigate the adverse effects of low income and high unemployment on health outcomes?
 
 ## Data
 
