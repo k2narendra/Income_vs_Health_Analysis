@@ -4,9 +4,9 @@
 
 - [Project_Title](#Income-level-vs-Health-Status)
 - [Motivation](#Motivation)
-- [Data_questions](#Data-questions)
+- [Data_questions](#Data-Questions)
 - [Technologies-Used](#Technologies-Used)
-- [The_Process](#The Process)
+- [The_Process](#The_Process)
 - [Challenges](#Challenges)
 - [Sources](#Sources)
 
@@ -14,9 +14,10 @@
 
 
 
-<h1>Income level vs Health Status</h1>
+<h1>Title</h1>
 
-The Impact of Individual Income on Health Behavior A Case Analysis By Narendra Kharel, Nashville Software School, DA13, March 06, 2025
+#### The Impact of Individual Income on Health Behavior
+ - A Case Analysis Presented By Narendra Kharel, Nashville Software School, DA13, March 06, 2025
 
 
 # Motivation 
@@ -26,7 +27,7 @@ Understanding how median income and unemployment rates impact health outcomes ca
 organizations, and communities can develop targeted interventions to improve public health and promote equity.
 
 
-# Data questions
+# Data Questions
 
 - Are there significant regional variations in the impact of median income and unemployment rates on health outcomes?
 - Is there a specific income threshold beyond which improvements in health outcomes?
